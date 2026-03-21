@@ -10,6 +10,8 @@ description: "Data Engineering, Spark, Databricks, Azure"
 author:
   name: "Mikołaj Żurek"
   bio: "Data Engineer | Spark | Security"
+  url: /about/
+  
 
 minimal_mistakes_skin: "default" # try: dark, air, contrast
 
