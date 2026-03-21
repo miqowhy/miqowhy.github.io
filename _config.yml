@@ -4,8 +4,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-title: "Building Secure, Scalable, and High-Performance Data Platforms"
-description: "Data Engineering, Spark, Databricks, Azure"
+title: "Building Secure, Scalable and High-Performance Data Platforms"
+description: "Data Engineering, Security"
 
 author:
   name: "Mikołaj Żurek"
