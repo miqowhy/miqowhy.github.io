@@ -25,6 +25,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+archive:
+  type: liquid
+
 header_pages:
   - about.md
   - categories.md
@@ -33,3 +36,14 @@ header_pages:
 show_date: true
 show_tags: true
 show_categories: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      show_date: true
+      read_time: true
+      share: false
+      related: true
