@@ -1,3 +1,18 @@
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+title: "Mikołaj Żurek"
+description: "Data Engineering, Spark, Databricks, Azure"
+
+author:
+  name: "Mikołaj Żurek"
+
+minimal_mistakes_skin: "default" # try: dark, air, contrast
+
+paginate: 5
+paginate_path: /page:num/
+
+markdown: kramdown
