@@ -47,3 +47,10 @@ defaults:
       read_time: true
       share: false
       related: true
+
+minimal_mistakes_skin: default
+
+atom_feed:
+  hide: false
+
+breadcrumbs: true
