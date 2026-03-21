@@ -24,3 +24,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+header_pages:
+  - about.md
+  - categories.md
+  - tags.md
