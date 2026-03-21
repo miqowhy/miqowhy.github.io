@@ -4,9 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Data Engineer with 8+ years of experience.
-
-Currently learning:
-- Databricks
-- Azure
-- Modern data stack
+What comes out if you are passionate about data engineering and cybersecurity? This blog.
