@@ -10,7 +10,13 @@ description: "Data Engineering, Spark, Databricks, Azure"
 author:
   name: "Mikołaj Żurek"
   bio: "Data Engineer | Spark | Security"
-  url: /about/
+  links:
+    - label: "About"
+      icon: "fas fa-user"
+      url: "/about/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/miko%C5%82aj-%C5%BCurek-07969b110/"
   
 
 minimal_mistakes_skin: "default" # try: dark, air, contrast
