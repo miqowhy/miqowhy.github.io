@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-title: "Secure and Performant Data Platforms"
+title: "Building Secure, Scalable, and High-Performance Data Platforms"
 description: "Data Engineering, Spark, Databricks, Azure"
 
 author:
