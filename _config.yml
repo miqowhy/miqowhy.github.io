@@ -4,12 +4,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-title: "Building Secure, Scalable and High-Performance Data Platforms"
-description: "Data Engineering, Security"
+title: "Data & AI Engineering Blog"
+description: "Data Engineering, AI, Security and more - by Mikołaj Żurek"
 
 author:
   name: "Mikołaj Żurek"
-  bio: "Data Engineer | Spark | Security"
+  bio: "Data Engineer | AI Enthusiast | Security Advocate"
   links:
     - label: "About"
       icon: "fas fa-user"
